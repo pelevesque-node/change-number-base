@@ -4,7 +4,7 @@
 
 # change-number-base
 
-Converts a number from one base to another base.
+Converts a number from one base to another.
 
 ## Node Repository
 
