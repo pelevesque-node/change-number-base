@@ -8,7 +8,7 @@ Converts a number from one base to another base.
 
 ## Node Repository
 
-[https://www.npmjs.com/package/@pelevesque/change-number-base](https://www.npmjs.com/package/@pelevesque/change-number-base)
+https://www.npmjs.com/package/@pelevesque/change-number-base
 
 ## Installation
 
