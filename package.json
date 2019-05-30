@@ -15,6 +15,7 @@
     "url": "git+https://github.com/pelevesque/change-number-base.git"
   },
   "keywords": [
+    "math",
     "number",
     "base",
     "radix"
