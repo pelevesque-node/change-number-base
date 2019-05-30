@@ -1,6 +1,6 @@
 {
   "name": "@pelevesque/change-number-base",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Converts a number from one base to another base.",
   "main": "index.js",
   "engines": {
