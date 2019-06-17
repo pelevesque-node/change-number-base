@@ -31,7 +31,7 @@ const changeNumberBase = require('@pelevesque/change-number-base')
 ```
 
 ```js
-const numb = 102
+const num = 102
 const initialBase = 3
 const newBase = 10
 const result = changeNumberBase(numb, initialBase, newBase)
