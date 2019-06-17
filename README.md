@@ -28,9 +28,12 @@ https://www.npmjs.com/package/@pelevesque/change-number-base
 
 ```js
 const changeNumberBase = require('@pelevesque/change-number-base')
-const number = 102
+```
+
+```js
+const numb = 102
 const initialBase = 3
 const newBase = 10
-const result = changeNumberBase(number, initialBase, newBase)
-// result === '11'
+const result = changeNumberBase(numb, initialBase, newBase)
+// result === 11
 ```
