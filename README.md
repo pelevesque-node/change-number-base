@@ -34,6 +34,6 @@ const changeNumberBase = require('@pelevesque/change-number-base')
 const num = 102
 const initialBase = 3
 const newBase = 10
-const result = changeNumberBase(numb, initialBase, newBase)
+const result = changeNumberBase(num, initialBase, newBase)
 // result === 11
 ```
